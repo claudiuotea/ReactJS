@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  align-content: center;
+}
+
+table{
+border-collapse: collapse;
+  align-self: center;
+}
+
+td,th{
+border:1px solid darkblue;
+padding: 10px;
+  text-align: center;
+}
+

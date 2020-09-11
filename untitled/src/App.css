@@ -1,0 +1,27 @@
+body{
+  background-color: aqua;
+}
+
+.body{
+  min-height: 100vh;
+  min-width: 100vw;
+  overflow: auto;
+  text-align: center;
+  align-content: center;
+}
+
+#titleText{
+  font-size: xx-large;
+  color: black;
+}
+
+.RaceTable{
+  text-align: center;
+  font-size: large;
+  color: black;
+}
+
+table.center{
+margin-left: auto;
+  margin-right: auto;
+}
